@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @xystudio889
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Welcome to my github
+## Hi , I'm [xystuio](https://github.com/xystudio889). 👋
 
-<!---
-xystudio889/xystudio889 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a student on computer major from China. I like open source.So I want to try to do it too.
+
+I want to be an interesting person and create something that can be remembered by others.
+
+- 🔭 I’m currently working on [pyplus](https://github.com/xystudio889/pyplus).
+- 🌱 I am currently trying to learn and do things that I find interesting.
+- 🚀 I can develop some python projects,sometimes develop c projects.
+- ❤️ I want to be a person who are commited  to open source software development.
+- 🤔 I like write some codes and open source on [github](https://github.com/xystudio889)
+- 💬 Be free to ask me about anything [project bug](https://github.com/xystudio889/xystudio889/issues).
+
+👈 Follow me on the left side of the page,please.
+
+## Languages and Frameworks
+
+<div>
+<a href="https://github.com/xystudio889" >
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xystudio889&layout=compact" />
+  </div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=xystudio889&show_icons=true" />
+  </div>
+</a>
