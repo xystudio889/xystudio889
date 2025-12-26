@@ -17,11 +17,8 @@ I want to be an interesting person and create something that can be remembered b
 ## Languages and Frameworks
 
 <div>
-<a href="https://github.com/xystudio889" >
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xystudio889&layout=compact" />
-  </div>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xystudio889&show_icons=true" />
-  </div>
+<a href="https://github.com/xystudio889">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xystudio889&layout=compact" alt="">
+  <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=xystudio889&count_private=true&show_icons=true&icon_color=0078e7&title_color=0078e7" alt="">
 </a>
+</div>
